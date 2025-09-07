@@ -1,0 +1,732 @@
+{
+  "English_NL_terms": [
+    {
+      "en": "abandon",
+      "nl": "verlaten"
+    },
+    {
+      "en": "able",
+      "nl": "in staat"
+    },
+    {
+      "en": "abnormal",
+      "nl": "abnormaal"
+    },
+    {
+      "en": "about",
+      "nl": "over"
+    },
+    {
+      "en": "above",
+      "nl": "boven"
+    },
+    {
+      "en": "absence",
+      "nl": "afwezigheid"
+    },
+    {
+      "en": "absolute",
+      "nl": "absoluut"
+    },
+    {
+      "en": "abstract",
+      "nl": "abstract"
+    },
+    {
+      "en": "baby",
+      "nl": "baby"
+    },
+    {
+      "en": "back",
+      "nl": "rug / achter"
+    },
+    {
+      "en": "bad",
+      "nl": "slecht"
+    },
+    {
+      "en": "bag",
+      "nl": "tas"
+    },
+    {
+      "en": "balance",
+      "nl": "balans"
+    },
+    {
+      "en": "ball",
+      "nl": "bal"
+    },
+    {
+      "en": "bank",
+      "nl": "bank"
+    },
+    {
+      "en": "bar",
+      "nl": "bar"
+    },
+    {
+      "en": "cage",
+      "nl": "kooi"
+    },
+    {
+      "en": "calculate",
+      "nl": "berekenen"
+    },
+    {
+      "en": "calm",
+      "nl": "kalm"
+    },
+    {
+      "en": "camera",
+      "nl": "camera"
+    },
+    {
+      "en": "camp",
+      "nl": "kamp"
+    },
+    {
+      "en": "canal",
+      "nl": "kanaal"
+    },
+    {
+      "en": "cancel",
+      "nl": "annuleren"
+    },
+    {
+      "en": "capable",
+      "nl": "bekwaam"
+    },
+    {
+      "en": "damage",
+      "nl": "schade"
+    },
+    {
+      "en": "damp",
+      "nl": "vochtig"
+    },
+    {
+      "en": "danger",
+      "nl": "gevaar"
+    },
+    {
+      "en": "dark",
+      "nl": "donker"
+    },
+    {
+      "en": "data",
+      "nl": "gegevens"
+    },
+    {
+      "en": "date",
+      "nl": "datum"
+    },
+    {
+      "en": "deal",
+      "nl": "overeenkomst"
+    },
+    {
+      "en": "decide",
+      "nl": "beslissen"
+    },
+    {
+      "en": "eager",
+      "nl": "gretig"
+    },
+    {
+      "en": "early",
+      "nl": "vroeg"
+    },
+    {
+      "en": "earn",
+      "nl": "verdienen"
+    },
+    {
+      "en": "earth",
+      "nl": "aarde"
+    },
+    {
+      "en": "easy",
+      "nl": "gemakkelijk"
+    },
+    {
+      "en": "echo",
+      "nl": "echo"
+    },
+    {
+      "en": "economy",
+      "nl": "economie"
+    },
+    {
+      "en": "factor",
+      "nl": "factor"
+    },
+    {
+      "en": "fade",
+      "nl": "vervagen"
+    },
+    {
+      "en": "fail",
+      "nl": "falen"
+    },
+    {
+      "en": "fair",
+      "nl": "eerlijk / beurs"
+    },
+    {
+      "en": "fall",
+      "nl": "vallen"
+    },
+    {
+      "en": "familiar",
+      "nl": "vertrouwd"
+    },
+    {
+      "en": "family",
+      "nl": "familie"
+    },
+    {
+      "en": "famous",
+      "nl": "beroemd"
+    },
+    {
+      "en": "garage",
+      "nl": "garage"
+    },
+    {
+      "en": "garbage",
+      "nl": "afval"
+    },
+    {
+      "en": "garden",
+      "nl": "tuin"
+    },
+    {
+      "en": "gasp",
+      "nl": "snikken / happen naar adem"
+    },
+    {
+      "en": "gather",
+      "nl": "verzamelen"
+    },
+    {
+      "en": "gaze",
+      "nl": "staren"
+    },
+    {
+      "en": "gear",
+      "nl": "apparatuur / uitrusting"
+    },
+    {
+      "en": "habit",
+      "nl": "gewoonte"
+    },
+    {
+      "en": "hair",
+      "nl": "haar"
+    },
+    {
+      "en": "half",
+      "nl": "helft"
+    },
+    {
+      "en": "hall",
+      "nl": "hal"
+    },
+    {
+      "en": "halt",
+      "nl": "halt / stilstand"
+    },
+    {
+      "en": "handle",
+      "nl": "handvat / aanpakken"
+    },
+    {
+      "en": "happen",
+      "nl": "gebeuren"
+    },
+    {
+      "en": "ignore",
+      "nl": "negeren"
+    },
+    {
+      "en": "illusion",
+      "nl": "illusie"
+    },
+    {
+      "en": "illustrate",
+      "nl": "illustreren"
+    },
+    {
+      "en": "image",
+      "nl": "afbeelding"
+    },
+    {
+      "en": "imagine",
+      "nl": "voorstellen"
+    },
+    {
+      "en": "immense",
+      "nl": "immens"
+    },
+    {
+      "en": "impact",
+      "nl": "invloed / klap"
+    },
+    {
+      "en": "jacket",
+      "nl": "jas"
+    },
+    {
+      "en": "jail",
+      "nl": "gevangenis"
+    },
+    {
+      "en": "jam",
+      "nl": "jam / vastlopen"
+    },
+    {
+      "en": "jar",
+      "nl": "pot"
+    },
+    {
+      "en": "jaw",
+      "nl": "kaak"
+    },
+    {
+      "en": "jealous",
+      "nl": "jaloers"
+    },
+    {
+      "en": "join",
+      "nl": "meedoen / verbinden"
+    },
+    {
+      "en": "joke",
+      "nl": "grap"
+    },
+    {
+      "en": "label",
+      "nl": "etiket"
+    },
+    {
+      "en": "labor",
+      "nl": "arbeid"
+    },
+    {
+      "en": "lack",
+      "nl": "gebrek"
+    },
+    {
+      "en": "ladder",
+      "nl": "ladder"
+    },
+    {
+      "en": "land",
+      "nl": "land / landen (werkwoord)"
+    },
+    {
+      "en": "landscape",
+      "nl": "landschap"
+    },
+    {
+      "en": "language",
+      "nl": "taal"
+    },
+    {
+      "en": "level",
+      "nl": "niveau / vlak"
+    },
+    {
+      "en": "machine",
+      "nl": "machine"
+    },
+    {
+      "en": "mad",
+      "nl": "boos / gek"
+    },
+    {
+      "en": "magic",
+      "nl": "magie"
+    },
+    {
+      "en": "maintain",
+      "nl": "onderhouden / handhaven"
+    },
+    {
+      "en": "major",
+      "nl": "groot / majoor"
+    },
+    {
+      "en": "make",
+      "nl": "maken"
+    },
+    {
+      "en": "manage",
+      "nl": "beheren"
+    },
+    {
+      "en": "nail",
+      "nl": "spijker / nagel"
+    },
+    {
+      "en": "naive",
+      "nl": "naïef"
+    },
+    {
+      "en": "narrow",
+      "nl": "smal"
+    },
+    {
+      "en": "nation",
+      "nl": "natie"
+    },
+    {
+      "en": "native",
+      "nl": "inheems / oorspronkelijk"
+    },
+    {
+      "en": "nature",
+      "nl": "natuur"
+    },
+    {
+      "en": "nearly",
+      "nl": "bijna"
+    },
+    {
+      "en": "neat",
+      "nl": "netjes"
+    },
+    {
+      "en": "obey",
+      "nl": "gehoorzamen"
+    },
+    {
+      "en": "object",
+      "nl": "voorwerp / bezwaar maken"
+    },
+    {
+      "en": "oblige",
+      "nl": "verplichten"
+    },
+    {
+      "en": "obscure",
+      "nl": "onduidelijk"
+    },
+    {
+      "en": "observe",
+      "nl": "waarnemen"
+    },
+    {
+      "en": "obstacle",
+      "nl": "obstakel"
+    },
+    {
+      "en": "obtain",
+      "nl": "verkrijgen"
+    },
+    {
+      "en": "package",
+      "nl": "pakket"
+    },
+    {
+      "en": "page",
+      "nl": "pagina"
+    },
+    {
+      "en": "pain",
+      "nl": "pijn"
+    },
+    {
+      "en": "paint",
+      "nl": "verf / verven"
+    },
+    {
+      "en": "palace",
+      "nl": "paleis"
+    },
+    {
+      "en": "panic",
+      "nl": "paniek"
+    },
+    {
+      "en": "parallel",
+      "nl": "parallel"
+    },
+    {
+      "en": "parent",
+      "nl": "ouder"
+    },
+    {
+      "en": "quantity",
+      "nl": "hoeveelheid"
+    },
+    {
+      "en": "quarter",
+      "nl": "kwart"
+    },
+    {
+      "en": "quest",
+      "nl": "zoektocht"
+    },
+    {
+      "en": "question",
+      "nl": "vraag"
+    },
+    {
+      "en": "quick",
+      "nl": "snel"
+    },
+    {
+      "en": "quiet",
+      "nl": "rustig"
+    },
+    {
+      "en": "quilt",
+      "nl": "gequilt deken"
+    },
+    {
+      "en": "quit",
+      "nl": "stoppen / verlaten"
+    },
+    {
+      "en": "race",
+      "nl": "race / ras"
+    },
+    {
+      "en": "radiate",
+      "nl": "uitstralen"
+    },
+    {
+      "en": "rage",
+      "nl": "woede"
+    },
+    {
+      "en": "rain",
+      "nl": "regen"
+    },
+    {
+      "en": "raise",
+      "nl": "optillen / verhogen"
+    },
+    {
+      "en": "random",
+      "nl": "willekeurig"
+    },
+    {
+      "en": "range",
+      "nl": "bereik / reeks"
+    },
+    {
+      "en": "sacred",
+      "nl": "heilig"
+    },
+    {
+      "en": "sad",
+      "nl": "verdrietig"
+    },
+    {
+      "en": "safe",
+      "nl": "veilig / kluis"
+    },
+    {
+      "en": "sail",
+      "nl": "zeil / zeilen"
+    },
+    {
+      "en": "saint",
+      "nl": "heilige"
+    },
+    {
+      "en": "salad",
+      "nl": "salade"
+    },
+    {
+      "en": "salary",
+      "nl": "salaris"
+    },
+    {
+      "en": "sample",
+      "nl": "monster / voorbeeld"
+    },
+    {
+      "en": "table",
+      "nl": "tafel"
+    },
+    {
+      "en": "tactic",
+      "nl": "tactiek"
+    },
+    {
+      "en": "tail",
+      "nl": "staart"
+    },
+    {
+      "en": "talent",
+      "nl": "talent"
+    },
+    {
+      "en": "tall",
+      "nl": "lang (van postuur)"
+    },
+    {
+      "en": "target",
+      "nl": "doelwit"
+    },
+    {
+      "en": "taste",
+      "nl": "smaak / proeven"
+    },
+    {
+      "en": "teach",
+      "nl": "onderwijzen"
+    },
+    {
+      "en": "unable",
+      "nl": "niet in staat"
+    },
+    {
+      "en": "unaware",
+      "nl": "niet bewust"
+    },
+    {
+      "en": "uncle",
+      "nl": "oom"
+    },
+    {
+      "en": "uncover",
+      "nl": "ontdekken / blootleggen"
+    },
+    {
+      "en": "under",
+      "nl": "onder"
+    },
+    {
+      "en": "undergo",
+      "nl": "ondergaan"
+    },
+    {
+      "en": "uniform",
+      "nl": "uniform"
+    },
+    {
+      "en": "union",
+      "nl": "unie / vakbond"
+    },
+    {
+      "en": "vacant",
+      "nl": "leeg / vacant"
+    },
+    {
+      "en": "vacation",
+      "nl": "vakantie"
+    },
+    {
+      "en": "vague",
+      "nl": "vaag"
+    },
+    {
+      "en": "valid",
+      "nl": "geldig"
+    },
+    {
+      "en": "valley",
+      "nl": "vallei"
+    },
+    {
+      "en": "valuable",
+      "nl": "waardevol"
+    },
+    {
+      "en": "value",
+      "nl": "waarde"
+    },
+    {
+      "en": "vanish",
+      "nl": "verdwijnen"
+    },
+    {
+      "en": "wander",
+      "nl": "rondzwerven"
+    },
+    {
+      "en": "want",
+      "nl": "willen"
+    },
+    {
+      "en": "warm",
+      "nl": "warm"
+    },
+    {
+      "en": "warn",
+      "nl": "waarschuwen"
+    },
+    {
+      "en": "wash",
+      "nl": "wassen"
+    },
+    {
+      "en": "waste",
+      "nl": "verspilling / afval"
+    },
+    {
+      "en": "watch",
+      "nl": "horloge / kijken"
+    },
+    {
+      "en": "water",
+      "nl": "water"
+    },
+    {
+      "en": "wave",
+      "nl": "golf / wuiven"
+    },
+    {
+      "en": "weak",
+      "nl": "zwak"
+    },
+    {
+      "en": "weapon",
+      "nl": "wapen"
+    },
+    {
+      "en": "wear",
+      "nl": "dragen (kleding)"
+    },
+    {
+      "en": "weather",
+      "nl": "weer"
+    },
+    {
+      "en": "web",
+      "nl": "web / internet"
+    },
+    {
+      "en": "zero",
+      "nl": "nul"
+    },
+    {
+      "en": "zone",
+      "nl": "zone"
+    },
+    {
+      "en": "zoology",
+      "nl": "dierkunde"
+    },
+    {
+      "en": "zoom",
+      "nl": "inzoomen / zoomen"
+    },
+    {
+      "en": "zest",
+      "nl": "enthousiasme / schil (bij citrus)"
+    },
+    {
+      "en": "zigzag",
+      "nl": "zigzag"
+    },
+    {
+      "en": "zinc",
+      "nl": "zink"
+    }
+  ]
+}
